@@ -4,6 +4,8 @@
 
 Este repositorio contiene el **Portafolio de Análisis** realizado para la materia de **Inteligencia Artificial Avanzada para la Ciencia de Datos I**. El propósito de este análisis es evaluar el rendimiento de distintos modelos de aprendizaje supervisado, incluyendo un perceptrón, una red neuronal básica y una red neuronal optimizada, aplicada al **Pima Indians Diabetes Dataset**.
 
+Liga al portafolio de Implementación: https://github.com/Axel3246/TC3006C_Portafolio_Implementacion_Framework_A00829837
+
 ## Contenido del repositorio:
 - **PortafolioAnálisis-A00829837.pdf**: Documento en formato PDF que detalla el análisis completo de los modelos, sus resultados, las métricas utilizadas, y las conclusiones obtenidas.
 
